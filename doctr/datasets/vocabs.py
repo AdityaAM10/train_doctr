@@ -74,6 +74,7 @@ VOCABS["multilingual"] = "".join(
         + VOCABS["danish"]
         + VOCABS["finnish"]
         + VOCABS["swedish"]
+        + VOCABS["hindi"]
         + "§"
     )
 )
