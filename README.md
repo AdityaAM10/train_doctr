@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://github.com/mindee/doctr/raw/main/docs/images/Logo_doctr.gif" width="40%">
 </p>
@@ -379,3 +380,6 @@ You're in luck, we compiled a short guide (cf. [`CONTRIBUTING`](https://mindee.g
 ## License
 
 Distributed under the Apache 2.0 License. See [`LICENSE`](https://github.com/mindee/doctr?tab=Apache-2.0-1-ov-file#readme) for more information.
+=======
+# train_doctr
+>>>>>>> d79df5ae0629ac2f78ae45d31240823fd7ffdb8b
