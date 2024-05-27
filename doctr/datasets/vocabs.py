@@ -52,6 +52,14 @@ VOCABS["vietnamese"] = (
     + "ÁÀẢẠÃĂẮẰẲẴẶÂẤẦẨẪẬÉÈẺẼẸÊẾỀỂỄỆÓÒỎÕỌÔỐỒỔỘỖƠỚỜỞỢỠÚÙỦŨỤƯỨỪỬỮỰIÍÌỈĨỊÝỲỶỸỴ"
 )
 VOCABS["hebrew"] = VOCABS["english"] + "אבגדהוזחטיכלמנסעפצקרשת" + "₪"
+VOCABS["hindi"] = (
+    VOCABS["digits"]
+    + VOCABS["hindi_digits"]
+    + "अआइईउऊऋऌऍऎएऐऑऒओऔअंअः"
+    + "कखगघङचछजझञटठडढणतथदधनपफबभमयरलवशषसह"
+    + "क़ख़ग़ज़ड़ढ़फ़"
+    + "ािीुूृॄॅेैॉोौ्"
+)
 VOCABS["multilingual"] = "".join(
     dict.fromkeys(
         VOCABS["french"]
